@@ -1,6 +1,6 @@
 /*
 int          - %d for printing
-double       - %lf for printing (we can use 'double' for expotential variabls also, it can keep decimal numbers more precisely )
+double       - %lf for printing (we can use 'double' for expotential variabls also, it can keep decimal numbers more precisely)
 float        - %f for printing (we can use 'float' for expotential variabls also)
 char         - %c for printing
 */
